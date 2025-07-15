@@ -5,13 +5,13 @@ import { ExternalLink } from 'lucide-react';
 
 const Portfolio = () => {
   const portfolio = [
-    {
-      title: "E-Book Platform",
-      category: "Full Stack Development",
-      image: "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=600",
-      description: "Complete online store with payment integration, inventory management, and admin dashboard",
-      link: "https://book-store-lyart-gamma.vercel.app/"
-    },
+    // {
+    //   title: "E-Book Platform",
+    //   category: "Full Stack Development",
+    //   image: "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=600",
+    //   description: "Complete online store with payment integration, inventory management, and admin dashboard",
+    //   link: "https://book-store-lyart-gamma.vercel.app/"
+    // },
     {
       title: "Learning Platform",
       category: "WebApp Development",
