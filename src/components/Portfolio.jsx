@@ -6,6 +6,13 @@ import { ExternalLink } from 'lucide-react';
 const Portfolio = () => {
   const portfolio = [
     {
+      title: "Lawyer Demo Website ",
+      category: "FrontEnd Development",
+      image: "https://cdn.pixabay.com/photo/2022/11/19/21/13/judge-7602999_1280.png",
+      description: "Professional and responsive lawyer website with service details, appointment booking, client testimonials, and a strong visual presence to build trust and credibility.",
+      link: "https://lawyerdemo1.netlify.app/"
+    },
+    {
       title: "E-Book Platform",
       category: "Full Stack Development",
       image: "https://images.pexels.com/photos/4348404/pexels-photo-4348404.jpeg?auto=compress&cs=tinysrgb&w=600",
