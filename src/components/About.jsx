@@ -30,7 +30,7 @@ const About = () => {
               <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 sm:mb-6">
                 Why Choose
                 <span className="block bg-gradient-to-r from-yellow-400 to-orange-400 bg-clip-text text-transparent">
-                BipcodeX?
+                Bipul?
                 </span>
               </h2>
               <p className="text-lg sm:text-xl text-gray-300 mb-6 sm:mb-8 leading-relaxed">
